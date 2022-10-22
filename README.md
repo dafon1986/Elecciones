@@ -1,3 +1,7 @@
+TOMANDO DATOS DEL WASHINGTON POST SOBRE LOS ASESINATOS POLICIALES EN ESTADOS UNIDOS EN LOS ULTIMOS AÑOS, SE COMPARARON LOS AÑOS ELECTORALES PONIENDO FOCO LOS ESTADOS DE WISCONSIN, GEORGIA, PENSILVANIA,Y MONTANA.
+
+
+
 # Fatal Force
 
 The Washington Post's database contains records of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015.
